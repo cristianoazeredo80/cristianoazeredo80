@@ -1,8 +1,8 @@
 ### Oi pessoal
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Morioko&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morioko&layout=compact&langs_count=16&theme=panda"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristianoazeredo80&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianoazeredo80&layout=compact&langs_count=16&theme=panda"/>
 </div>
 <br>
 
@@ -23,4 +23,4 @@
     </a>
 </div>
 
-![Snake animation](https://github.com/Morioko/Morioko/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/cristianoazeredo80/cristianoazeredo80/blob/output/github-contribution-grid-snake.svg)
