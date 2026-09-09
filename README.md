@@ -39,10 +39,3 @@ A maior parte do que produzo em infraestrutura roda em ambiente corporativo e n√
 ### Contato
 
 [![Gmail](https://img.shields.io/badge/E--mail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:cristianosilva249@gmail.com)
-
-<br>
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cristianoazeredo80&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianoazeredo80&layout=compact&langs_count=8&theme=panda"/>
-</div>
